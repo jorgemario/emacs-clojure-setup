@@ -1,1 +1,0 @@
-("~/dev/clojure/cljapplied/" "~/dev/clojure/noob/")

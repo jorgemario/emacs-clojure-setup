@@ -1,8 +1,8 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/jorgem/.gitconfig" . 530)
- ("/home/jorgem/.emacs.d/init.el" . 3960)
+(("/home/jorgem/dev/clojure/cljapplied/src/cljapplied/ch1/money.clj" . 431)
+ ("/home/jorgem/.emacs.d/customizations/setup-clojure.el" . 2934)
+ ("/home/jorgem/.gitconfig" . 530)
  ("/home/jorgem/dev/clojure/cljapplied/src/cljapplied/ch1/modeling.clj" . 900)
- ("/home/jorgem/dev/clojure/cljapplied/src/cljapplied/ch1/money.clj" . 436)
  ("/home/jorgem/.profile" . 675)
  ("/home/jorgem/.bashrc" . 2698)
  ("/home/jorgem/dev/clojure/noob/src/noob/core.clj" . 199)
@@ -10,6 +10,5 @@
  ("/home/jorgem/.lein/profiles.clj" . 43)
  ("/home/jorgem/.local/share/applications/emacs.desktop" . 20)
  ("/home/jorgem/.emacs.d/customizations/elisp-editing.el" . 172)
- ("/home/jorgem/.emacs.d/customizations/setup-clojure.el" . 2226)
  ("/home/jorgem/.emacs.d/customizations/editing.el" . 1864)
  ("/home/jorgem/dev/clojure/noob/project.clj" . 320))

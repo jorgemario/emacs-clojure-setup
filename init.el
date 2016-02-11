@@ -5,8 +5,6 @@
 ;; Define package repositories
 (require 'package)
 (add-to-list 'package-archives
-             '("marmalade" . "http://marmalade-repo.org/packages/") t)
-(add-to-list 'package-archives
              '("melpa" . "https://melpa.org/packages/") t)
 
 ;; (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
@@ -61,7 +59,7 @@
     projectile
 
     ;; colorful parenthesis matching
-;;    rainbow-delimiters
+    ;; rainbow-delimiters
 
     ;; edit html tags like sexps
     tagedit
